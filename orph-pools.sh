@@ -1,3 +1,4 @@
+#!/bin/bash
 echo 'Please, inform BIG-IP managemnt IP, username and password to connect to the BIG-IP'
 read -p 'BIG-IP mgmt IP: ' host
 read -p 'Username: ' user
